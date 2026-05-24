@@ -39,3 +39,10 @@
 Developer Type: Full-Stack + Game Systems Engineer
 Focus: Game Systems, Web Backend, IoT Integration
 Style: Modular, Scalable, Experimental
+
+---
+Game Systems Design        ██████████░░
+Backend Development        ████████░░░░
+Networking Systems        ███████░░░░░
+IoT Integration           ██████░░░░░░
+UI/UX Design              ████████░░░░
