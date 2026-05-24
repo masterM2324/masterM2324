@@ -1,105 +1,41 @@
-# 👋 Hi, I'm a Developer & Game Creator
+<!-- ========== HERO SECTION ========== -->
 
 <p align="center">
-  <img src="https://via.placeholder.com/150x150.png?text=Code+%26+Software+Center" alt="Code & Software Center Logo" />
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/code-software-center.gif" width="200"/>
+</p>
+
+<h1 align="center">CODE & SOFTWARE CENTER</h1>
+
+<p align="center">
+  <b>Building systems, not just games.</b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Game+Developer+%7C+Godot+Engine;Web+Developer+%7C+PHP+%2F+JS+%2F+MySQL;IoT+Explorer+%7C+System+Builder;C%2FC%2B%2B+Programmer;Network+%26+Backend+Learner" />
 </p>
 
 ---
 
-## 🧠 About Me
+<!-- ========== STATS DASHBOARD ========== -->
 
-I am a multidisciplinary developer focused on **game development, web systems, and embedded technologies**.  
-I enjoy building interactive systems that combine software, hardware, and gameplay design.
-
----
-
-## 🏢 Code & Software Center
+## 📊 SYSTEM DASHBOARD
 
 <p align="center">
-  <img src="https://via.placeholder.com/900x200.png?text=Code+%26+Software+Center+Banner" alt="Center Banner" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="160"/>
 </p>
 
-A personal development hub focused on:
-
-- 🎮 Game Development Systems
-- 🌐 Web Applications & Backend Systems
-- 📡 IoT Integration Projects
-- 💻 Software Architecture & Tools
-- 🧠 Experimental Interactive Systems
-
-> “Building ideas into real working systems.”
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="160"/>
+</p>
 
 ---
 
-## 🛠️ Skills
+<!-- ========== ABOUT ========== -->
 
-### 🎨 Design
-- Figma (UI/UX Design)
-- Adobe XD (Prototyping)
-- Aseprite (Pixel Art / Sprite Design)
+## 🧠 SYSTEM OVERVIEW
 
-### 🌐 Web Development
-- HTML, CSS, JavaScript
-- PHP Core (Backend Development)
-- MySQL (Database Design & Management)
-
-### 🎮 Game Development
-- Godot Engine (2D Game Development)
-- Game Mechanics & System Design
-- Basic Multiplayer Architecture
-
-### 💻 Programming
-- C / C++ (Logic, Algorithms, System Programming)
-
-### 📡 IoT
-- Sensor-based systems
-- Real-world interaction prototypes
-
-### 🌐 Networking
-- LAN / Online multiplayer concepts
-- Basic client-server understanding
-
----
-
-## 🚀 Projects
-
-### 🎮 Last District (2D Game Project)
-Top-down 2D survival game built in **Godot Engine**.
-
-- Role-based gameplay system
-- Pixel art environment
-- Future multiplayer expansion
-- System-driven gameplay design
-
----
-
-### 🛒 Game Web Store System
-Web-based game economy system.
-
-- PHP + MySQL backend
-- Item & shop management
-- Virtual economy logic
-
----
-
-### 📡 IoT Real-Life Game System
-Hybrid real-world + digital gameplay prototype.
-
-- Sensor-based interaction
-- Real-time data processing
-- Experimental gameplay system
-
----
-
-## 🎯 Goals
-
-- Build scalable multiplayer systems
-- Improve backend architecture for games
-- Merge IoT with gameplay mechanics
-- Release full indie game project (Last District)
-
----
-
-## ⚡ Motto
-
-> "Build systems, not just games."
+```txt
+Developer Type: Full-Stack + Game Systems Engineer
+Focus: Game Systems, Web Backend, IoT Integration
+Style: Modular, Scalable, Experimental
