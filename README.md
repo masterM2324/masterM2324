@@ -1,7 +1,7 @@
 <!-- ========== HERO ========== -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/masterM232024/your-repo/main/assets/code-software-center.gif" width="180"/>
+  <img src="https://raw.githubusercontent.com/masterM232024/masterM232024/main/assets/code-software-center.gif" width="180"/>
 </p>
 
 <h1 align="center">CODE & SOFTWARE CENTER</h1>
