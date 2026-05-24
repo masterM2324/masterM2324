@@ -1,18 +1,33 @@
 # 👋 Hi, I'm a Developer & Game Creator
 
-I am a multidisciplinary developer focused on **game development, web systems, and embedded technologies**.  
-I enjoy building interactive systems that combine **software, hardware, and gameplay design** into meaningful projects.
+<p align="center">
+  <img src="https://via.placeholder.com/150x150.png?text=Code+%26+Software+Center" alt="Code & Software Center Logo" />
+</p>
 
 ---
 
 ## 🧠 About Me
 
-- 🎮 Game Developer (Godot Engine - 2D Focus)
-- 🌐 Web Developer (PHP, HTML, CSS, JavaScript, MySQL)
-- 🎨 UI/UX & Pixel Artist (Figma, Adobe XD, Aseprite)
-- 💻 Programmer (C / C++)
-- 📡 IoT & Real-World Systems Explorer
-- 🌐 Basic Networking & Multiplayer Concepts
+I am a multidisciplinary developer focused on **game development, web systems, and embedded technologies**.  
+I enjoy building interactive systems that combine software, hardware, and gameplay design.
+
+---
+
+## 🏢 Code & Software Center
+
+<p align="center">
+  <img src="https://via.placeholder.com/900x200.png?text=Code+%26+Software+Center+Banner" alt="Center Banner" />
+</p>
+
+A personal development hub focused on:
+
+- 🎮 Game Development Systems
+- 🌐 Web Applications & Backend Systems
+- 📡 IoT Integration Projects
+- 💻 Software Architecture & Tools
+- 🧠 Experimental Interactive Systems
+
+> “Building ideas into real working systems.”
 
 ---
 
@@ -49,61 +64,42 @@ I enjoy building interactive systems that combine **software, hardware, and game
 ## 🚀 Projects
 
 ### 🎮 Last District (2D Game Project)
-A top-down 2D game built in **Godot Engine** focusing on survival mechanics, systems design, and future multiplayer expansion.
+Top-down 2D survival game built in **Godot Engine**.
 
-- Role-based gameplay system (planned / in progress)
-- Pixel art environment & characters
-- Expandable architecture for multiplayer integration
+- Role-based gameplay system
+- Pixel art environment
+- Future multiplayer expansion
 - System-driven gameplay design
 
 ---
 
 ### 🛒 Game Web Store System
-A web-based item store system integrated with game economy mechanics.
+Web-based game economy system.
 
 - PHP + MySQL backend
-- Item management system
-- Game currency / shop concept
-- Backend logic for virtual economy
+- Item & shop management
+- Virtual economy logic
 
 ---
 
-### 📡 IoT Real-Life Game System (Prototype)
-An experimental project combining real-world input with game mechanics.
+### 📡 IoT Real-Life Game System
+Hybrid real-world + digital gameplay prototype.
 
-- Sensor-based interaction systems
+- Sensor-based interaction
 - Real-time data processing
-- Prototype stage for hybrid gameplay (real + digital)
+- Experimental gameplay system
 
 ---
 
 ## 🎯 Goals
 
-- Build scalable multiplayer game architecture
-- Improve backend systems for online games
-- Combine IoT with interactive gameplay systems
-- Release a full polished indie game (Last District)
-- Strengthen system design & architecture skills
-
----
-
-## 📊 Focus Areas
-
-- Game Systems Design
-- Multiplayer Networking
-- Backend Development for Games
-- Interactive Real-World Game Systems
-
----
-
-## 📫 Contact
-
-> You can connect with me through GitHub or future portfolio website (coming soon).
+- Build scalable multiplayer systems
+- Improve backend architecture for games
+- Merge IoT with gameplay mechanics
+- Release full indie game project (Last District)
 
 ---
 
 ## ⚡ Motto
 
 > "Build systems, not just games."
-
----
