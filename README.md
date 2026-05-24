@@ -17,10 +17,57 @@
 ---
 
 <!-- ========== SYSTEM STATUS ========== -->
-
 ## 🧠 SYSTEM STATUS
 
 ```txt
 Core Identity : Full-Stack Game Systems Engineer
-Focus Areas   : Game Dev + Web Systems + IoT Integration
-Current Level : BUILDING PRODUCTION PROJECTS
+
+Focus Areas   : 
+- Game Development (Godot Engine, 2D Systems)
+- Web Backend Development (PHP + MySQL + JavaScript)
+- IoT Interactive Systems (Real-world integration)
+- Low-level Programming (C / C++)
+- Basic Networking & Multiplayer Concepts
+
+Strengths     :
+- System Design Thinking (Core Gameplay + Architecture)
+- Backend Logic Design (Database + API structure)
+- Pixel-based Game Creation
+- Experimental Hybrid Systems (Game + IoT)
+
+Current Level :
+- Building production-ready game systems
+- Learning scalable multiplayer architecture
+- Developing "Last District" as main project
+
+Style         :
+- Modular design
+- Scalable architecture
+- Experiment-driven development
+---
+
+# ⚡ OPTIONAL UPGRADE (RECOMMENDED)
+
+បើអ្នកចង់ឲ្យវាមើល “pro dev profile” ពិតៗ ខ្ញុំណែនាំបន្ថែម 3 blocks:
+
+## 1. 🔥 SKILL RADAR (visual)
+```md
+## ⚙️ SKILL RADAR
+
+- Game Systems Design  ██████████░░
+- Godot Engine         █████████░░░
+- Web Backend (PHP)    ████████░░░░
+- MySQL                ████████░░░░
+- C / C++              ███████░░░░░
+- Networking           ███████░░░░░
+- IoT Systems          ██████░░░░░░
+---
+
+## 🧬 ENGINEERING FOCUS
+
+I don’t just build features — I design systems:
+
+- Gameplay systems → rules + interaction logic
+- Backend systems → data + economy structure
+- IoT systems → real-world input mapping
+- Networking systems → multi-user synchronization
