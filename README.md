@@ -1,93 +1,109 @@
-<!-- BANNER -->
-<p align="center">
-  <img src="https://i.imgur.com/YOUR_BANNER.gif" width="100%">
-</p>
+# 👋 Hi, I'm a Developer & Game Creator
 
-<h1 align="center">🎮 ENG DEV</h1>
-
-<p align="center">
-  2D Game Developer from Cambodia <br>
-  Building multiplayer pixel-art games using Godot Engine
-</p>
+I am a multidisciplinary developer focused on **game development, web systems, and embedded technologies**.  
+I enjoy building interactive systems that combine **software, hardware, and gameplay design** into meaningful projects.
 
 ---
 
-# 🕹 Current Project
+## 🧠 About Me
 
-## LAST DISTRICT
-Top-down online multiplayer survival game.
-
-### Features
-- Online multiplayer
-- Inventory system
-- Role system
-- Pixel art world
-- Dynamic events
-- Admin election system
+- 🎮 Game Developer (Godot Engine - 2D Focus)
+- 🌐 Web Developer (PHP, HTML, CSS, JavaScript, MySQL)
+- 🎨 UI/UX & Pixel Artist (Figma, Adobe XD, Aseprite)
+- 💻 Programmer (C / C++)
+- 📡 IoT & Real-World Systems Explorer
+- 🌐 Basic Networking & Multiplayer Concepts
 
 ---
 
-# ⚒ Tech Stack
+## 🛠️ Skills
 
-<p>
-  <img src="https://img.shields.io/badge/Godot-3.5-478cbf?style=for-the-badge&logo=godot-engine&logoColor=white">
-  <img src="https://img.shields.io/badge/GDScript-111111?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Pixel_Art-ff69b4?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Multiplayer-00ff99?style=for-the-badge">
-</p>
+### 🎨 Design
+- Figma (UI/UX Design)
+- Adobe XD (Prototyping)
+- Aseprite (Pixel Art / Sprite Design)
 
----
+### 🌐 Web Development
+- HTML, CSS, JavaScript
+- PHP Core (Backend Development)
+- MySQL (Database Design & Management)
 
-# 📸 Screenshots
+### 🎮 Game Development
+- Godot Engine (2D Game Development)
+- Game Mechanics & System Design
+- Basic Multiplayer Architecture
 
-<p align="center">
-  <img src="https://i.imgur.com/sample1.png" width="45%">
-  <img src="https://i.imgur.com/sample2.png" width="45%">
-</p>
+### 💻 Programming
+- C / C++ (Logic, Algorithms, System Programming)
 
----
+### 📡 IoT
+- Sensor-based systems
+- Real-world interaction prototypes
 
-# 🚧 Development Roadmap
-
-- [x] Top-down movement
-- [x] LAN multiplayer
-- [ ] Online dedicated server
-- [ ] Trading system
-- [ ] Vehicle system
-- [ ] Large city map
-- [ ] Faction wars
+### 🌐 Networking
+- LAN / Online multiplayer concepts
+- Basic client-server understanding
 
 ---
 
-# 📊 GitHub Stats
+## 🚀 Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight">
-</p>
+### 🎮 Last District (2D Game Project)
+A top-down 2D game built in **Godot Engine** focusing on survival mechanics, systems design, and future multiplayer expansion.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight">
-</p>
-
----
-
-# 🌌 Currently Learning
-
-- Dedicated multiplayer servers
-- Server optimization
-- Procedural generation
-- Advanced AI systems
+- Role-based gameplay system (planned / in progress)
+- Pixel art environment & characters
+- Expandable architecture for multiplayer integration
+- System-driven gameplay design
 
 ---
 
-# 🌍 Connect
+### 🛒 Game Web Store System
+A web-based item store system integrated with game economy mechanics.
 
-<p>
-  <a href="https://github.com/YOUR_USERNAME">GitHub</a>
-</p>
+- PHP + MySQL backend
+- Item management system
+- Game currency / shop concept
+- Backend logic for virtual economy
 
 ---
 
-<p align="center">
-  "Build games. Learn systems. Keep creating."
-</p>
+### 📡 IoT Real-Life Game System (Prototype)
+An experimental project combining real-world input with game mechanics.
+
+- Sensor-based interaction systems
+- Real-time data processing
+- Prototype stage for hybrid gameplay (real + digital)
+
+---
+
+## 🎯 Goals
+
+- Build scalable multiplayer game architecture
+- Improve backend systems for online games
+- Combine IoT with interactive gameplay systems
+- Release a full polished indie game (Last District)
+- Strengthen system design & architecture skills
+
+---
+
+## 📊 Focus Areas
+
+- Game Systems Design
+- Multiplayer Networking
+- Backend Development for Games
+- Interactive Real-World Game Systems
+
+---
+
+## 📫 Contact
+
+> You can connect with me through GitHub or future portfolio website (coming soon).
+
+---
+
+## ⚡ Motto
+
+> "Build systems, not just games."
+
+---
