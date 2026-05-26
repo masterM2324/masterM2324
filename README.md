@@ -1,5 +1,3 @@
-<!-- ========== HERO ========== -->
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/masterM232024/portfolio/main/assets/code-software-center.gif" width="180"/>
 </p>
@@ -7,78 +5,76 @@
 <h1 align="center">CODE & SOFTWARE CENTER</h1>
 
 <p align="center">
-  <b>Game Systems • Web Backend • IoT Engineering</b>
+  <img src="https://img.shields.io/badge/SYSTEMS-ENGINEERING-00ff99?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BACKEND-DEVELOPMENT-0078ff?style=for-the-badge&logo=serverfault&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IOT-INTEGRATION-ff8800?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Game+Developer+%7C+Godot+Engine+Specialist;Web+Developer+%7C+PHP+%2F+MySQL+%2F+JS;IoT+System+Builder;C%2FC%2B%2B+Programmer;Network+%26+Backend+Learner" />
+  <b>Software Engineering • Backend Systems • IoT Integration</b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF99&center=true&vCenter=true&width=750&lines=Backend+Systems+Engineer;PHP+%7C+MySQL+%7C+JavaScript;C+%2F+C%2B%2B+Programmer;IoT+Systems+Builder;Scalable+Architecture+Learner" />
 </p>
 
 ---
 
-<!-- ========== SYSTEM STATUS ========== -->
+# 🧠 SYSTEM STATUS
 
-## 🧠 SYSTEM STATUS
-
-### Core Identity
-Full-Stack Game Systems Engineer
+## Core Identity
+Full-Stack Systems Engineer
 
 ---
 
-### Focus Areas
-- Game Development (Godot Engine, 2D Systems)
-- Web Backend Development (PHP + MySQL + JavaScript)
-- IoT Interactive Systems (Real-world integration)
+## ⚡ Focus Areas
+- Backend Development (PHP + MySQL + JavaScript)
+- IoT Interactive Systems
 - Low-level Programming (C / C++)
-- Basic Networking & Multiplayer Concepts
+- System Architecture & Logic Design
+- Scalable Application Development
 
 ---
 
-### Strengths
-- System Design Thinking (Gameplay + Architecture)
-- Backend Logic Design (Database + API Systems)
-- Pixel-based Game Creation
-- Experimental Hybrid Systems (Game + IoT)
+## 🚀 Strengths
+- Modular System Design
+- Backend Logic & API Architecture
+- Database Structure Engineering
+- Experimental Hybrid Systems
+- Problem Solving & Optimization
 
 ---
 
-### Current Progress
-- Building production-ready game systems
-- Learning scalable multiplayer architecture
-- Developing **“Last District”** as main project
+## 📌 Current Progress
+- Building production-ready systems
+- Learning scalable architecture patterns
+- Developing **“Last District”** as primary project
 
 ---
 
-### Development Style
-- Modular architecture
-- Scalable system design
-- Experiment-driven development
+# ⚙️ SKILL RADAR
+
+- System Architecture      ▰▰▰▰▰▰▰▰▱▱ 85%
+- Backend Development      ▰▰▰▰▰▰▰▰▱▱ 80%
+- PHP / MySQL              ▰▰▰▰▰▰▰▱▱▱ 78%
+- C / C++                  ▰▰▰▰▰▰▰▱▱▱ 70%
+- IoT Systems              ▰▰▰▰▰▰▱▱▱▱ 60%
+- API & Data Flow          ▰▰▰▰▰▰▰▱▱▱ 75%
 
 ---
 
-## ⚙️ SKILL RADAR
 
-- Game Systems Design   ██████████░░
-- Godot Engine          █████████░░░
-- Web Backend (PHP)     ████████░░░░
-- MySQL Database        ████████░░░░
-- C / C++               ███████░░░░░
-- Networking            ███████░░░░░
-- IoT Systems           ██████░░░░░░
+# 🧬 ENGINEERING FOCUS
 
----
+I don’t just build features — I engineer scalable systems.
 
-## 🧬 ENGINEERING FOCUS
-
-I don’t just build features — I design systems.
-
-- Gameplay Systems → rules, mechanics, interactions  
-- Backend Systems → data flow, economy, structure  
-- IoT Systems → real-world input mapping  
-- Networking Systems → multiplayer synchronization logic  
+- Backend Systems → APIs, databases, logic flow
+- Software Architecture → modular & maintainable design
+- IoT Systems → hardware + software interaction
+- Data Systems → structure, synchronization, optimization
 
 ---
 
-## 🎯 PHILOSOPHY
+# 🎯 PHILOSOPHY
 
-> Build systems that can evolve, not just projects that work once.
+> Build systems that can evolve — not just projects that run once.
