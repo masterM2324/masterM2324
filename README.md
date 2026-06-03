@@ -2,12 +2,12 @@
   <img src="https://raw.githubusercontent.com/masterM232024/portfolio/main/assets/code-software-center.gif" width="180"/>
 </p>
 
-<h1 align="center">CODE & SOFTWARE CENTER</h1>
+<h1 align="center">💻 CODE & SOFTWARE CENTER</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SYSTEMS-ENGINEERING-00ff99?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BACKEND-DEVELOPMENT-0078ff?style=for-the-badge&logo=serverfault&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IOT-INTEGRATION-ff8800?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SYSTEMS--ENGINEERING-00ff99?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BACKEND--DEVELOPMENT-0078ff?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IOT--INTEGRATION-ff8800?style=for-the-badge&logo=esphome&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -20,61 +20,31 @@
 
 ---
 
-# 🧠 SYSTEM STATUS
+## 🧠 SYSTEM STATUS
 
-## Core Identity
-Full-Stack Systems Engineer
+### 🤖 Core Identity
+* **Role:** Full-Stack Systems Engineer
+* **Mission:** Building robust backend architectures and bridging the gap between software and hardware.
 
----
+### ⚡ Focus Areas
+* **Backend Development:** Crafting secure APIs and database logic using PHP, MySQL, and JavaScript.
+* **IoT Interactive Systems:** Integrating hardware components with modern web ecosystems.
+* **Low-Level Programming:** Writing efficient, optimized logic in C / C++.
+* **System Architecture:** Designing modular, scalable, and maintainable software patterns.
 
-## ⚡ Focus Areas
-- Backend Development (PHP + MySQL + JavaScript)
-- IoT Interactive Systems
-- Low-level Programming (C / C++)
-- System Architecture & Logic Design
-- Scalable Application Development
-
----
-
-## 🚀 Strengths
-- Modular System Design
-- Backend Logic & API Architecture
-- Database Structure Engineering
-- Experimental Hybrid Systems
-- Problem Solving & Optimization
+### 🚀 Key Strengths
+* Modular System Design & Microservices Thinking
+* Database Structure Engineering & Query Optimization
+* Experimental Hybrid Systems (Web + Hardware Integration)
 
 ---
 
-## 📌 Current Progress
-- Building production-ready systems
-- Learning scalable architecture patterns
-- Developing **“Last District”** as primary project
+## ⚙️ SKILL RADAR
 
----
-
-# ⚙️ SKILL RADAR
-
-- System Architecture      ▰▰▰▰▰▰▰▰▱▱ 85%
-- Backend Development      ▰▰▰▰▰▰▰▰▱▱ 80%
-- PHP / MySQL              ▰▰▰▰▰▰▰▱▱▱ 78%
-- C / C++                  ▰▰▰▰▰▰▰▱▱▱ 70%
-- IoT Systems              ▰▰▰▰▰▰▱▱▱▱ 60%
-- API & Data Flow          ▰▰▰▰▰▰▰▱▱▱ 75%
-
----
-
-
-# 🧬 ENGINEERING FOCUS
-
-I don’t just build features — I engineer scalable systems.
-
-- Backend Systems → APIs, databases, logic flow
-- Software Architecture → modular & maintainable design
-- IoT Systems → hardware + software interaction
-- Data Systems → structure, synchronization, optimization
-
----
-
-# 🎯 PHILOSOPHY
-
-> Build systems that can evolve — not just projects that run once.
+```text
+System Architecture  ▰▰▰▰▰▰▰▰▱▱ 85%
+Backend Development  ▰▰▰▰▰▰▰▰▱▱ 80%
+PHP / MySQL          ▰▰▰▰▰▰▰▱▱▱ 78%
+API & Data Flow      ▰▰▰▰▰▰▰▱▱▱ 75%
+C / C++              ▰▰▰▰▰▰▰▱▱▱ 70%
+IoT Systems          ▰▰▰▰▰▰▱▱▱▱ 60%
