@@ -42,9 +42,9 @@
 ## ⚙️ SKILL RADAR
 
 ```text
-System Architecture  ▰▰▰▰▰▰▰▰▱▱ 85%
-Backend Development  ▰▰▰▰▰▰▰▰▱▱ 80%
+System Architecture  ▰▰▰▰▰▰▱▱▱▱ 60%
+Backend Development  ▰▰▰▰▰▱▱▱▱▱ 50%
 PHP / MySQL          ▰▰▰▰▰▰▰▱▱▱ 78%
 API & Data Flow      ▰▰▰▰▰▰▰▱▱▱ 75%
-C / C++              ▰▰▰▰▰▰▰▱▱▱ 70%
+C / C++              ▰▰▰▰▰▰▰▰▱▱ 80%
 IoT Systems          ▰▰▰▰▰▰▱▱▱▱ 60%
