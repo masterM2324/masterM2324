@@ -1,50 +1,64 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/masterM232024/portfolio/main/assets/code-software-center.gif" width="180"/>
-</p>
+👋 Hi, I'm SeangEng
 
-<h1 align="center">💻 CODE & SOFTWARE CENTER</h1>
+💻 Backend Development Learner
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SYSTEMS--ENGINEERING-00ff99?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BACKEND--DEVELOPMENT-0078ff?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IOT--INTEGRATION-ff8800?style=for-the-badge&logo=esphome&logoColor=white"/>
-</p>
-
-<p align="center">
-  <b>Software Engineering • Backend Systems • IoT Integration</b>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF99&center=true&vCenter=true&width=750&lines=Backend+Systems+Engineer;PHP+%7C+MySQL+%7C+JavaScript;C+%2F+C%2B%2B+Programmer;IoT+Systems+Builder;Scalable+Architecture+Learner" />
-</p>
+Passionate about building web applications with PHP and MySQL. Currently focused on backend development, database design, and API fundamentals.
 
 ---
 
-## 🧠 SYSTEM STATUS
+🛠 Tech Stack
 
-### 🤖 Core Identity
-* **Role:** Full-Stack Systems Engineer
-* **Mission:** Building robust backend architectures and bridging the gap between software and hardware.
+Backend
 
-### ⚡ Focus Areas
-* **Backend Development:** Crafting secure APIs and database logic using PHP, MySQL, and JavaScript.
-* **IoT Interactive Systems:** Integrating hardware components with modern web ecosystems.
-* **Low-Level Programming:** Writing efficient, optimized logic in C / C++.
-* **System Architecture:** Designing modular, scalable, and maintainable software patterns.
+- PHP
+- MySQL
 
-### 🚀 Key Strengths
-* Modular System Design & Microservices Thinking
-* Database Structure Engineering & Query Optimization
-* Experimental Hybrid Systems (Web + Hardware Integration)
+Frontend
+
+- HTML
+- CSS
+- JavaScript
+
+Tools
+
+- Git
+- GitHub
+- VS Code
 
 ---
 
-## ⚙️ SKILL RADAR
+🚀 What I Can Build
 
-```text
-System Architecture  ▰▰▰▰▰▰▱▱▱▱ 60%
-Backend Development  ▰▰▰▰▰▱▱▱▱▱ 50%
-PHP / MySQL          ▰▰▰▰▰▰▰▱▱▱ 78%
-API & Data Flow      ▰▰▰▰▰▰▰▱▱▱ 75%
-C / C++              ▰▰▰▰▰▰▰▰▱▱ 80%
-IoT Systems          ▰▰▰▰▰▰▱▱▱▱ 60%
+✔ CRUD Applications
+
+✔ User Authentication Systems
+
+✔ Database-Driven Web Applications
+
+✔ Basic REST APIs
+
+✔ Responsive Web Interfaces
+
+---
+
+📚 Currently Learning
+
+- Advanced PHP
+- MySQL Optimization
+- API Development
+- Secure Authentication
+- Software Engineering Principles
+
+---
+
+🎯 Career Goal
+
+Seeking a Backend Developer Internship where I can apply PHP & MySQL skills, gain real-world experience, and contribute to meaningful projects.
+
+---
+
+📈 GitHub Focus
+
+- Clean Code
+- Project-Based Learning
+- Continuous Improvement
